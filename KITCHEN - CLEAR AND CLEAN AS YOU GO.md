@@ -7,3 +7,5 @@
 | Keep sinks clear and clean them regularly. | This stops dirt building up and helps prevent bacteria and allergens from spreading. |
 | Wash or wipe away spills as soon as they happen. Clean and then disinfect work surfaces after wiping up spills from raw food. | This stops dirt building up and helps prevent bacteria and allergens from spreading. |
 | Wash work surfaces thoroughly between tasks. Use a new cloth (or one that has been washed and disinfected) to clean work surfaces before preparing ready-to-eat food. | This will help prevent dirt and bacteria and allergens spreading onto other foods from the surface. A dirty cloth could spread bacteria and allergens to the surface. |
+
+SOURCE: https://www.food.gov.uk/sites/default/files/media/document/sfbb-indian-cuisines-clean-clear-as-you-go_0.pdf
