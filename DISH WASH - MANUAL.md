@@ -1,4 +1,4 @@
-## Manual Dish Washing (3-Compartment Sinks)
+## Manual Dish Wash (3-Compartment Sinks)
 *The industry standard is the **Scrape-Wash-Rinse-Sanitise-Air Dry** method:*
 * @BIN: *Scrape* food from item into food waste bin
 * @SINK #1: *Wash* item in hot water (>40C) WITH detergent
