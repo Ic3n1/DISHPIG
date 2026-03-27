@@ -1,4 +1,4 @@
-## Dish Wash - Machine (Commercial Machine)
+## Kitchen - dish washing (commercial machine)
 1. Scraping
    * Remove all solid food waste into a bin
    * Prevents clogging of wash arms
