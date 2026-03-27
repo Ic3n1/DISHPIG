@@ -1,11 +1,7 @@
-## **Manual Dish Washing (3-Compartment Sink)**
-
-The industry standard is the **Scrape-Wash-Rinse-Sanitize-Air Dry** method:
-
-* **Bins:** Scrape food into food waste bin
-* **Sink #1 (Wash):** Hot water (>40C) and detergent
-* **Sink #2 (Rinse):** Clean, warm water
-* **Sink #3 (Sanitize):** Water with an approved sanitizer
-
-  *Note:* Items must be submerged for at least **30 seconds**
-* **Drying:** Air dry on a clean, sanitized rack
+## Manual Dish Washing (3-Compartment Sinks)
+*The industry standard is the **Scrape-Wash-Rinse-Sanitise-Air Dry** method:*
+* @BIN: *Scrape* food from item into food waste bin
+* @SINK #1: *Wash* item in hot water (>40C) WITH detergent
+* @SINK #2: *Rinse* item with CLEAN, WARM water
+* @SINK #3: *Sanitise* item in water with an approved sanitiser. MUST be submerged for at least 30 seconds
+* @RACK: *Air dry* on a clean, sanitised rack
